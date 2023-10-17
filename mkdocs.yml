@@ -1,6 +1,7 @@
 site_name: Event Management Committee SoP Website
 
 theme: material
+
 plugins:
   - search
   - social
